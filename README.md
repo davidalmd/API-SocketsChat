@@ -9,7 +9,7 @@ OrbiChat é um projeto de chat em tempo real feito com Node.js e a biblioteca So
 
 ## Como rodar o projeto
 
-### Crie um arquivo .env com base no arquivo .env.example
+#### Obs.: Crie um arquivo .env com base no arquivo .env.example
 
 ### Usando Yarn
 1. Instale as dependências com o comando:
